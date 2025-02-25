@@ -44,7 +44,7 @@ The following UML diagram illustrates the class structure of the project:
 ![Class Diagram](Tic-Tac-Toe.jpg)
 
 ## Contributors
-Salsabil Bahaa Eldin
-Nagat Mohamed
-Menna Samir
+- Salsabil Bahaa Eldin
+- Nagat Mohamed
+- Menna Samir
 
